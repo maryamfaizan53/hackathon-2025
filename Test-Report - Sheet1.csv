@@ -1,0 +1,7 @@
+TesttCaseID,TestCaseDescription,TestSteps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Validate Product listing page,Open product page,Products displayed correctly,Product displayed correctly,Passed,Low,-,No issue
+TC002,Test API error handling,Disconnect API>Refresh page,Show fallback UI with an error message,Error message shown,Passed,Medium,-,Handle gracefully
+TC003,Checking cart functionality,Add product to cart > Verify cart contents,Cart updates with added product,Cart updates as expected,Passed,High,-,Works as expected
+TC004,Ensure responsiveness on mobile,Resize browser window > Check Layout,Layout adjusts properly to screen size,Responsive layout working as intended,Passed,Medium,-,Test successfully
+TC005,VerifiedDynamic Routing,Product>product detail,Shows every product dynamic with additional information,Shows every product dynamic with additional information,Passed,Medium,-,As expected
+TC006,Validate Filter and Search,Apply filters > Perform a search query,Filters and searches display accurate results,Accurate results displayed,Passed,High,-,Works as expected

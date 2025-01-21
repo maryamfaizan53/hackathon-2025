@@ -1,0 +1,65 @@
+API Endpoints 
+
+/api/reviews/[productId] (POST)
+
+Method: POST
+Purpose: Allows customers to submit a review for a specific product identified by its unique ID.
+
+
+
+/api/reviews/[productId] (GET)
+
+Method: GET
+Purpose: Retrieves all reviews associated with a specific product using the product's unique ID.
+
+
+
+/api/create-order
+
+Method: POST
+Purpose: This endpoint is used to create a new order when a customer completes a purchase.
+
+
+
+/api/orders
+
+Method: GET
+Purpose: Retrieves all orders, typically for administrative or backend management purposes.
+
+
+
+/api/shipengine/create-label
+
+Method: POST
+Purpose: Generates a shipping label for an order, which is essential for processing deliveries.
+
+
+
+/api/shipengine/get-rates
+
+Method: GET
+Purpose: Fetches shipping rates based on the order details, destination, and shipping carrier.
+
+
+
+/api/shipengine/track-shipment
+
+Method: GET
+Purpose: Tracks the current location and status of a shipment using the shipment tracking details.
+
+
+
+/api/track-orders
+
+Method: GET
+Purpose: Allows customers to view all of their orders and track their progress.
+
+
+
+/api/send/confirmation-email
+
+Method: POST
+Purpose: Sends an email to the customer confirming that their order has been successfully placed.
+
+
+
