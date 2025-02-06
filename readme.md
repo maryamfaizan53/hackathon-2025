@@ -5,7 +5,7 @@
 This README file documents the development process of **FurniCo**, a niche furniture e-commerce platform, built using **Next.js**, **TypeScript**, and **Sanity CMS**. The project was executed in a 7-day timeline, with each day focused on specific goals to ensure a structured and efficient workflow.
 
 Github repo link for the wwebsite:https://github.com/maryamfaizan53/main-hackathon-proj-final-updates-latest-v6-with-stripe
-Github repo link for Admin Dasboard:
+Github repo link for Admin Dasboard:https://github.com/maryamfaizan53/real-time-dashboard-with-mongodb
 
 ---
 
